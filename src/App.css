@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.btnlist {
+  margin: 20px;
+  width: 100px;
+  height: 50px;
+  color: white;
+}
+
+.getbtn {
+  background-color: #0275d8;
+}
+.postbtn {
+  background-color: #5bc0de;
+}
+.deletebtn {
+  background-color: #d9534f;
+}
+.putbtn {
+  background-color: #f0ad4e;
+}
