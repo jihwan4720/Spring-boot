@@ -11,10 +11,9 @@ function App() {
   useEffect(() => {
     axios.get("/api/users").then((response) => {
       if (response.data) {
-        const newuser = {
-          id : 1,
-        }
-        setUser(response.data);
+        
+        setUser(response.data[0]);
+        
       } else {
         alert("failed to");
       }
