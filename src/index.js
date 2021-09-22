@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import SanhaLogin from './SanhaLogin';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <SanhaLogin />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
