@@ -1,0 +1,36 @@
+html {
+    background-color: #f5f6f8;
+}
+.sanhaLogin {
+    text-align: center;  
+}
+.contentArea {
+    margin-top: 200px;
+}
+.line {
+    width:60%;
+}
+.emailText {
+    margin-right: 190px;
+}
+.passText {
+    margin-right: 220px;
+}
+.input {
+    margin-left:120px;
+    width: 400px;
+    height: 28px;
+}
+.checkbox {
+    vertical-align:-4px;
+    width:20px;
+    height:20px;
+}
+.checkboxText {
+    margin-right:160px;
+}
+.link {
+    margin-top:30px;
+    margin-right:120px;
+    color:blue;
+}
